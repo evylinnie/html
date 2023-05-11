@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Boba!!!</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <nav class="menu">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Favorite</a></li>
+        <li><a href="#">All Reviews</a></li>
+      </ul>
+    </nav>
+    <!--first section-->
+    <section class="jumbotron">
+      <h1>Boba Places on the Ave!</h1>
+      <p>As a boba connessieur, I drink a lot of boba and have visited many
+        spots in the greater Seattle area! Here is some of my top choices if
+        you're bringing a friend and they wanna check out the good bubble tea
+        in the area.
+      </p>
+    </section>
+    <!--second section-->
+    <section class="favorite">
+      <h1>Favorite Boba Place</h1>
+      <article>
+        <h2>TP Tea, 5/5</h2>
+        <p>TP Tea still remains as my favorite boba place! Although it can be
+          a bit pricier because of the credit card fee and how the toppings are
+          a little more expensive, it's still my favorite. The tea quality
+          is really smooth and you can taste the tea flavor. The QQ noodle
+          and the golden jelly are my favorite toppings still, and it's great
+          that they have coffee jelly! I also like how their default tea is a
+          variation of oolong tea. My favorite drinks are the 3Q TP Milk Tea and
+          the Fresh Fruit Tea with Chia Seeds and golden jelly. I like how I
+          can get no sugar and no ice and still find the drink appetizing!</p>
+      </article>
+    </section>
+    <!--table -->
+    <section class="reviews">
+      <h1>All Reviews</h1>
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Specialty</th>
+            <th>City</th>
+            <th>Rating</th>
+            <th>Review</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Chi Cha San Chen</td>
+            <td>Brewing teas in espresso machines</td>
+            <td>Bellevue, WA</td>
+            <td>4/5</td>
+            <td>Pretty good tea flavor and unique toppings! Can tell there has
+              been a lot of care put into the tea. Pretty expensive though.
+            </td>
+          </tr>
+          <tr>
+            <td>TP Tea</td>
+            <td>Unique toppings, Tie Guan Yin Tea</td>
+            <td>Seattle, WA</td>
+            <td>5/5</td>
+            <td>Tea quality is so good! Both fruit teas and milk teas are really
+              refreshing and yummy. Golden jelly and QQ noodle are my fave!
+            </td>
+          </tr>
+          <tr>
+            <td>Bobae</td>
+            <td>Nitrogen-brewed boba</td>
+            <td>Kirkland, WA</td>
+            <td>5/5</td>
+            <td>Really yummy milk teas, matcha + jasmine milk teas aren't too
+              sweet! Boba quality is fresh and chewy.
+            </td>
+          </tr>
+          <tr>
+            <td>Oasis</td>
+            <td>Cozy ambiance</td>
+            <td>Seattle, WA</td>
+            <td>2/5</td>
+            <td>Tea flavor is pretty artificial and toppings don't taste fresh.
+              Ambience is kinda fun and cozy though, and they have snacks like
+              popcorn chicken which is good!
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </body>
+</html>
