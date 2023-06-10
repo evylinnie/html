@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: 'Arial', 'Helvetica', sans-serif;
+}
+
+nav {
+  background-color:beige;
+  min-height: 10vh;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  float: right;
+  margin-right: 0.5em;
+}
+
+.jumbotron {
+  text-align: center;
+  min-height: 90vh;
+  background-image: url(https://media.istockphoto.com/id/523043028/photo/homemade-milk-bubble-tea-with-tapioca.jpg?s=612x612&w=is&k=20&c=44LhC5LK28C6ehwwSkI1A_FAtybv-7jim3HJLqQRbe8=)
+}
+
+.favorite {
+  color: brown;
+}
+
+.reviews {
+  color:blue;
+}
